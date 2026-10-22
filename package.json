@@ -1,0 +1,26 @@
+{
+  "name": "modo-noturno-react",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mariasantos1997/modo-noturno-react#readme",
+  "bugs": {
+    "url": "https://github.com/mariasantos1997/modo-noturno-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariasantos1997/modo-noturno-react.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.4",
+    "vite": "^8.3.5"
+  }
+}
